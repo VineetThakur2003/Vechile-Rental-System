@@ -9,9 +9,7 @@ package payment;
 			}else {
 				for(int i=0; i<PaymentMode.person.length; i++) {
 					System.out.println(PaymentMode.person[i]);
-//			for(int i=0; i<PaymentMode.arr.length; i++) {
-//				System.out.println(Arrays.toString(PaymentMode.arr));
-//			}
+
 		}
 			}
 		}
